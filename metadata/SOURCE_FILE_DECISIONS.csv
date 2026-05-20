@@ -1,0 +1,7 @@
+path,decision,reason
+paper/Levinson-Giacomin-Badsey-Ellis-2016-Accessibility-London-Underground-JTLU.pdf,include,Final open JTLU article PDF for reference.
+data/derived/otp_headway_accessibility_regressionplots.xlsx,include,Small source-like numeric workbook for the OTP/headway comparison figure.
+../../../_shared_sources/london-historical-rail-accessibility,point_to_shared_source,Curated London population/rail/network/GIS data used across multiple London papers; avoids duplicated package payloads.
+EarlyAccessibility-JTLU article source and generated figure PDFs/JPGs,exclude,Article build/output clutter; not needed once final PDF and source data are staged.
+EarlyAccessibility8 large TIFF and rendered maps,exclude,"Generated visual outputs, including a 100 MB TIFF, not source data/code."
+London Underground-TRB.pdf; London Underground-WSTLUR.pdf,exclude,"Conference/draft versions, not archive payload for paper/data/code."

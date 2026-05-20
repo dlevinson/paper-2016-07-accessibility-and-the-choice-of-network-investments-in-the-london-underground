@@ -1,0 +1,76 @@
+relative_path,sheet,rows,cols,sample_headers
+data/modernized_xlsx/LU-NetworkEvolution.xlsx,London Maps,752,12,London Underground geographic maps/Tables | http://commons.wikimedia.org/wiki/London_Underground_geographic_maps
+data/modernized_xlsx/LU-NetworkEvolution.xlsx,London Underground Stations,368,16,id-wikipedia | Number-dml | Line | Station | Zone | YEAR | AUTHORITY | CLOSED | display_name | zone | total_lines
+data/modernized_xlsx/LU-NetworkEvolution.xlsx,Sheet3,1,1,
+data/modernized_xlsx/LondonCoevolutionData-documented.xlsx,Documentation,149,2,Variable | Definition
+data/modernized_xlsx/LondonCoevolutionData-documented.xlsx,Data,694,148,uniqueindex | administrative_district | year | population_density | map_code | tube_stations_add | tube_stations_cum | tube_station_density | newtubedens | tube_stations_prev | train_stations_add | train_stations_cum
+data/modernized_xlsx/LondonCoevolutionData-documented.xlsx,LanLon,34,3,Borough | Latitude | Longitude
+data/modernized_xlsx/LondonCoevolutionData-documented.xlsx,NeighborData,34,12,Borough | Latitude | Longitude | Neighbor nearest London | Other Neighbors | Count
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,LineNames,71,2,LINEid | LINE
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,Surface Lines,773,16,iNode | jNode | SegmentID | LINE | SEQUENCE | STATIONS | TRANSFERS | SEGMENT OPEN | CLOSED | REOPEN | ORIGINAL NAME
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,Surface Links,710,21,iNodeNumber | jNodeNumber | SegmentID1 | SegmentID2 | Short Name I | Short Name j | Linei | Linej | Sequencei | Sequencej | YEARi | YEARj
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,Surface Nodes,327,58,"""railway station"" | SHORT NAME | LONG NAME | YEAR | Place | Local authority | TERMINUS [1,0] | NUMBER OF CONNECTIONS | SECOND DEGREE CONNECTIONS | NODE NUMBER | =D1 | =B1"
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,Link Names,327,30,iNode | jNode | jNode | jNode | jNode | jNode | jNode | jNode | jNode | jNode | jNode | jNode
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,UK Railway Stations,2634,10,Station Name | Postcode | Left Postcode | Right Postcode | Code | Postcode (public domain best) | <easting> | <northing> | <WGS84 lat> | <WGS84 long>
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,Post Code,10108,7,# Generated on Fri Nov 24 00:00:10 2006
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,Multimap Vertical,327,14,SHORT NAME | NodeNumber | Post Code | ID | X: (m) | Y: (m) | Lat: | Lon: | Lat (std) | Lat (digital) | Lon (std) | Lon (digital)
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,Closed Stations,102,15,0
+data/modernized_xlsx/NR-NetworkEvolution.xlsx,List of London Railway Stations,559,13,A | Place | Local authority | Managed by | Platforms in use | Station code | Annual entry/exit | Zone | Opening | Closed (pax) | Line1 | Line2
+data/modernized_xlsx/PopulationArea.xlsx,Notes,109,6,Source: | Date: | Source:
+data/modernized_xlsx/PopulationArea.xlsx,Barking and Dagenham,22,2,Year | Barking and Dagenham
+data/modernized_xlsx/PopulationArea.xlsx,Barnet,22,2,ear | Barnet
+data/modernized_xlsx/PopulationArea.xlsx,Bexley,22,2,Year | Bexley
+data/modernized_xlsx/PopulationArea.xlsx,Brent,22,2,Year | Brent
+data/modernized_xlsx/PopulationArea.xlsx,Bromley,22,2,Year | Bromley
+data/modernized_xlsx/PopulationArea.xlsx,Camden,22,2,Year | Camden
+data/modernized_xlsx/PopulationArea.xlsx,City of London,22,2,Year | City of London
+data/modernized_xlsx/PopulationArea.xlsx,Croydon,22,2,Year | Croydon
+data/modernized_xlsx/PopulationArea.xlsx,Ealing,22,2,Year | Ealing
+data/modernized_xlsx/PopulationArea.xlsx,Enfield,22,2,Year | Enfield
+data/modernized_xlsx/PopulationArea.xlsx,Greenwich,22,2,Year | Greenwich
+data/modernized_xlsx/PopulationArea.xlsx,Hackney,22,2,Year | Hackney
+data/modernized_xlsx/PopulationArea.xlsx,Hammersmith and Fulham,22,2,Year | Hammersmith and Fulham
+data/modernized_xlsx/PopulationArea.xlsx,Haringey,22,2,Year | Haringey
+data/modernized_xlsx/PopulationArea.xlsx,Harrow,22,2,Year | Harrow
+data/modernized_xlsx/PopulationArea.xlsx,Havering,22,2,Year | Havering
+data/modernized_xlsx/PopulationArea.xlsx,Hillingdon,22,2,Year | Hillingdon
+data/modernized_xlsx/PopulationArea.xlsx,Hounslow,22,2,Year | Hounslow
+data/modernized_xlsx/PopulationArea.xlsx,Islington,22,2,Year | Islington
+data/modernized_xlsx/PopulationArea.xlsx,Kensington and Chelsea,22,2,Year | Kensington and Chelsea
+data/modernized_xlsx/PopulationArea.xlsx,Kingston upon Thames,22,2,Year | Kingston upon Thames
+data/modernized_xlsx/PopulationArea.xlsx,Lambeth,22,2,Year | Lambeth
+data/modernized_xlsx/PopulationArea.xlsx,Lewisham,22,2,Year | Lewisham
+data/modernized_xlsx/PopulationArea.xlsx,Merton,22,2,Year | Merton
+data/modernized_xlsx/PopulationArea.xlsx,Newham,22,2,Year | Newham
+data/modernized_xlsx/PopulationArea.xlsx,Redbridge,22,2,Year | Redbridge
+data/modernized_xlsx/PopulationArea.xlsx,Richmond upon Thames,22,2,Year | Richmond upon Thames
+data/modernized_xlsx/PopulationArea.xlsx,Southwark,22,2,Year | Southwark
+data/modernized_xlsx/PopulationArea.xlsx,Sutton,22,2,Year | Sutton
+data/modernized_xlsx/PopulationArea.xlsx,Tower Hamlets,22,2,Year | Tower Hamlets
+data/modernized_xlsx/PopulationArea.xlsx,Waltham Forest,22,2,Year | Waltham Forest
+data/modernized_xlsx/PopulationArea.xlsx,Wandsworth,22,2,Year | Wandsworth
+data/modernized_xlsx/PopulationArea.xlsx,Westminster,22,2,Year | Westminster
+data/modernized_xlsx/PopulationArea.xlsx,Rail Station Open and Closings,143,22,Rail Openings | 1841 | 1851 | 1861 | 1871 | 1881 | 1891 | 1901 | 1911 | 1921 | 1931 | 1941
+data/modernized_xlsx/PopulationArea.xlsx,Tube Station Openings,79,65,Sum of Cumulative | YEAR
+data/modernized_xlsx/PopulationArea.xlsx,Correlations,12,12,Population_Density | Log_PopDens | Normalized_Local_Density | Normalized_London_Density | Share_of_London_Pop | Tube_Stations_Add | Tube_Stations_Cum | Tube_Station_Density | Area | Population | Ring
+data/modernized_xlsx/PopulationArea.xlsx,Sheet3,7,7,Population_Density | Log_PopDens | Normalized_Local_Density | Normalized_London_Density | Share_of_London_Pop | Tube Stations per Person
+data/modernized_xlsx/PopulationArea.xlsx,Sheet4,15,15,Population_Density | Log_PopDens | Normalized_Local_Density | Normalized_London_Density | Share_of_London_Pop | Tube Stations per Person | Map_Code | Tube_Stations_Add | Tube_Stations_Cum | Train_Stations | Tube_Station_Density
+data/modernized_xlsx/PopulationArea.xlsx,Analyze,694,89,Administrative_District | Year | Population_Density | Log_PopDens | Normalized_Local_Density | Normalized_London_Density | Share_of_London_Pop | Tube Stations per Person | Map_Code | Tube_Stations_Add | Tube_Stations_Cum | Tube_Station_Density
+data/modernized_xlsx/PopulationArea.xlsx,Master,74,38,POPULATION
+data/modernized_xlsx/PopulationArea.xlsx,Popdens=f(year),33,9,SUMMARY OUTPUT
+data/modernized_xlsx/Railway-Links-2.xlsx,Surface,447,39,"A | Place | Local authority | TERMINUS [1,0] | NUMBER OF CONNECTIONS"
+data/modernized_xlsx/Railway-Links-2.xlsx,Tube,364,7,Number | Line | Station | Zone | YEAR | AUTHORITY | CLOSED
+data/modernized_xlsx/Railway-Links-2.xlsx,Sheet3,1,1,
+data/modernized_xlsx/Railway_Stations-Nov012006.xlsx,Chart2,1,1,
+data/modernized_xlsx/Railway_Stations-Nov012006.xlsx,Stations by AD,46,2,Opening | (Show All)
+data/modernized_xlsx/Railway_Stations-Nov012006.xlsx,Net by Year & AD,42,20,1841 | 1851 | 1861 | 1871 | 1881 | 1891 | 1901 | 1911 | 1921 | 1931 | 1941
+data/modernized_xlsx/Railway_Stations-Nov012006.xlsx,Opening by Year & AD,90,87,
+data/modernized_xlsx/Railway_Stations-Nov012006.xlsx,Closing by Year & AD,71,38,
+data/modernized_xlsx/Railway_Stations-Nov012006.xlsx,Data for S-curve,415,19,Station | Local authority | Zone | Opening | Indicator | Cumulative Opened | Station | Local authority | Closed (pax) | Indicator | Cumulative Closed
+data/modernized_xlsx/Railway_Stations-Nov012006.xlsx,List of London railway stations,559,17,A | Place | Local authority | Managed by | Platforms in use | Station code | Annual entry/exit | Zone | Opening | Closed (pax) | Line1 | Line2
+data/modernized_xlsx/The_Tube.xlsx,k=1250 1976-05,54,9,SUMMARY OUTPUT
+data/modernized_xlsx/The_Tube.xlsx,K=900,23,9,SUMMARY OUTPUT
+data/modernized_xlsx/The_Tube.xlsx,K=780 1934-75,23,9,SUMMARY OUTPUT
+data/modernized_xlsx/The_Tube.xlsx,Sheet1,94,19,t0= | 1920 | 1982
+data/original/tube-export.csv,csv,694,76,administrative_district | year | population_density | log_popdens | normalized_local_density | normalized_london_density | share_of_london_pop | tubestationsperperson | map_code | tube_stations_add | tube_stations_cum | train_stations
+data/derived/otp_headway_accessibility_regressionplots.xlsx,Sheet1,15,6,T1 | T2 | T3 | T4 | C
