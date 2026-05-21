@@ -2,7 +2,7 @@
 
 Paper: Levinson, David M.; Giacomin, David; and Badsey-Ellis, Antony. 2016. "Accessibility and the choice of network investments in the London Underground." Journal of Transport and Land Use 9(1): 131-150. DOI: 10.5198/jtlu.2015.797.
 
-Status: READY-TO-UPLOAD/PUBLIC, with a shared London source bundle.
+Status: UPLOADED, with a shared London source bundle.
 
 This package contains the final open JTLU article PDF, a small derived workbook used for the OTP/headway accessibility comparison figure, and documentation pointing to the shared local London source bundle at `../../../_shared_sources/london-historical-rail-accessibility`.
 
@@ -15,7 +15,7 @@ The local hard-drive search found the London population/rail/network workbooks a
 
 Generated: 2026-05-21 20:19:00 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
