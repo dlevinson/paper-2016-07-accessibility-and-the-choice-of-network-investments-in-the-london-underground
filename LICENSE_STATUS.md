@@ -1,6 +1,6 @@
 # License Status: Accessibility And The Choice Of Network Investments In The London Underground
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:19:00 AEST
 
 Recorded license/access note from the verified audit row: JTLU/open-publication terms for article; upstream historical/open data sources retain their own terms.
 
