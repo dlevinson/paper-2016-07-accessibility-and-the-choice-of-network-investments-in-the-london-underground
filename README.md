@@ -1,5 +1,9 @@
 # Accessibility And The Choice Of Network Investments In The London Underground
 
+## Contribution
+
+This paper retrospectively tests whether accessibility helps explain which early London Underground proposals Parliament approved. It finds that population accessibility gained per unit of expenditure—closely related to prospective ridership and revenue—largely distinguishes approved schemes from rejected ones, revealing an implicit economic logic in historical network investment.
+
 Paper: Levinson, David M.; Giacomin, David; and Badsey-Ellis, Antony. 2016. "Accessibility and the choice of network investments in the London Underground." Journal of Transport and Land Use 9(1): 131-150. DOI: 10.5198/jtlu.2015.797.
 
 Status: UPLOADED, with a shared London source bundle.
