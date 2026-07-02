@@ -1,0 +1,53 @@
+Repository License And Provenance Boundary
+
+Copyright (c) 2015-2026 David M. Levinson, David Giacomin, Antony
+Badsey-Ellis, and repository contributors
+
+This repository is a mixed research package. The license below applies only
+to materials that the paper authors or repository maintainers have rights to
+license, and it does not relicense publication PDFs, shared-source bundles,
+provider-governed public data, coauthor- or contributor-controlled source
+materials, vendor file-format structures, or third-party materials.
+
+## Creative Commons Attribution 4.0 International
+
+Author-created repository documentation, package metadata, source-decision
+notes, manifests, generated data dictionaries, and rights-cleared derived
+package metadata are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+## Materials Not Relicensed
+
+This repository license does not apply to:
+
+- The publication PDFs under `paper/`, which retain their Journal of
+  Transport and Land Use / publication terms, including the article's stated
+  Creative Commons Attribution-NonCommercial 3.0 license.
+- The shared London historical rail accessibility source bundle at
+  `../../../_shared_sources/london-historical-rail-accessibility`, including
+  historical population, rail-network, GIS, OpenStreetMap-derived, ArcGIS, and
+  modernized workbook sidecar materials. Those files retain their original
+  source terms and documented provenance outside this repository.
+- The paper-specific workbook
+  `data/derived/otp_headway_accessibility_regressionplots.xlsx`, except to the
+  extent a separate rights determination confirms that specific workbook
+  content is controlled by the paper authors or repository maintainers. The
+  workbook is retained here as source-like provenance for the OTP/headway
+  comparison figure, not blanket-relicensed.
+- The manually created historical GTFS feed, complete OpenTripPlanner project,
+  or complete ArcGIS model workspace described in the paper, because those
+  executable workflow materials were not found in this staged package.
+- Badsey-Ellis source materials, Giacomin thesis materials, Great Britain
+  Historical GIS / Vision of Britain data, OpenStreetMap data, surface-rail
+  sources, public-agency/source records, cited references, drafts, conference
+  versions, generated figures, vendor file-format structures, and other
+  third-party or externally controlled materials.
+
+## Software Boundary
+
+No executable software, scripts, notebooks, model source code, ArcGIS model
+workspace, OpenTripPlanner graph-build project, or historical GTFS feed is
+staged in this repository. This root license therefore grants no separate
+software license.
