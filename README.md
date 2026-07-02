@@ -14,13 +14,33 @@ The paper states that the analysis used public historical borough population dat
 
 The local hard-drive search found the London population/rail/network workbooks and finalized fixed-network GIS shapefiles staged in the shared bundle. It did not find a complete ArcGIS model workspace, OTP graph-build project, or the hand-built historical GTFS feed, so the README does not claim one-command reproduction. The package is nonetheless suitable as a public archival source-data package because it captures the available source data rather than leaving this as a false "already uploaded" closure.
 
+## Rights And License
+
+See `LICENSE` for the operative repository license and provenance boundary.
+CC BY 4.0 applies only to author-created repository documentation, package
+metadata, source-decision notes, manifests, generated data dictionaries, and
+rights-cleared derived package metadata.
+
+The publication PDFs retain their Journal of Transport and Land Use /
+publication terms, including the article's stated Creative Commons
+Attribution-NonCommercial 3.0 license. The shared London historical rail
+accessibility source bundle, Great Britain Historical GIS / Vision of Britain
+data, OpenStreetMap-derived materials, Badsey-Ellis source materials, Giacomin
+thesis materials, surface-rail sources, public-agency/source records, and other
+third-party materials retain their original terms and are not relicensed here.
+
+The paper-specific OTP/headway workbook is retained as source-like provenance
+for the comparison figure. It is not blanket-relicensed unless a separate
+rights determination confirms that the specific workbook content is controlled
+by the paper authors or repository maintainers.
+
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-21 20:19:00 AEST
+Generated: 2026-07-02 11:34:47 AEST
 
 - Pipeline: `UPLOADED`
-- Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
-- Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
-- Final GitHub upload should use the manifest include statuses and the license-status note.
+- Sidecars added/updated: `LICENSE`, `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
+- Paper reference copies are for local audit convenience and retain their publication terms.
+- Final GitHub upload should use the manifest include statuses and the operative license boundary.
 <!-- package-hardening-status:end -->

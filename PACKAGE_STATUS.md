@@ -1,6 +1,6 @@
 # Package Status: Accessibility And The Choice Of Network Investments In The London Underground
 
-Generated: 2026-05-21 20:19:00 AEST
+Generated: 2026-07-02 11:34:47 AEST
 
 ## Audit State
 
@@ -15,15 +15,17 @@ Generated: 2026-05-21 20:19:00 AEST
 
 ## Package Checks
 
-- Files in manifest: 11
+- Files in manifest: 12
 - Paper reference files: 3
 - Code candidates: 0
 - Data candidates: 1
 - Archive candidates: 0
 - Review-only files: 0
+- Root license: `LICENSE`
 
 ## Upload Boundary
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
-- Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
-- Confirm finality and license before repository creation.
+- Apply the root `LICENSE` only to author-created repository documentation, package metadata, source-decision notes, manifests, generated data dictionaries, and rights-cleared derived package metadata.
+- Treat files under `paper/` as local reference copies that retain their Journal of Transport and Land Use / publication terms.
+- Treat the paper-specific OTP/headway workbook and the shared London source bundle as provenance/source materials unless separate rights confirmation clears specific content for reuse.
